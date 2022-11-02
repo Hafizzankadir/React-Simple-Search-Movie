@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React-Simple-Search-Movie/static/css/main.195ba7a4.css",
+    "main.js": "/React-Simple-Search-Movie/static/js/main.d68ed988.js",
+    "static/js/787.6711493f.chunk.js": "/React-Simple-Search-Movie/static/js/787.6711493f.chunk.js",
+    "index.html": "/React-Simple-Search-Movie/index.html",
+    "static/media/search.svg": "/React-Simple-Search-Movie/static/media/search.9c253707d0a707e8c88ea79c93aebb2b.svg",
+    "main.195ba7a4.css.map": "/React-Simple-Search-Movie/static/css/main.195ba7a4.css.map",
+    "main.d68ed988.js.map": "/React-Simple-Search-Movie/static/js/main.d68ed988.js.map",
+    "787.6711493f.chunk.js.map": "/React-Simple-Search-Movie/static/js/787.6711493f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.195ba7a4.css",
+    "static/js/main.d68ed988.js"
+  ]
+}
